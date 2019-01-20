@@ -1,0 +1,18 @@
+
+Descricao: Inicio da verificacao numero 0
+------------
+503 >> 053
+Descricao: Trocou-se o digito 5 pelo 0
+
+053 >> 035
+Descricao: Trocou-se o digito 5 pelo 3
+
+
+Descricao: Inicio da verificacao numero 1
+------------
+035 >> 035
+Descricao: Nao houve troca pois o numero 0 ja eh menor/igual que 3
+
+035 >> 035
+Descricao: Nao houve troca pois o numero 3 ja eh menor/igual que 5
+
